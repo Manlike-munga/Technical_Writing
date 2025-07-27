@@ -3,6 +3,5 @@ this is a a repository about technical writting
 and git hub relationships 
 unicorn
 practicing 
-And the unicorn
-adding the ponnys
-pull request 
+And the unicorn  ponnys
+main

@@ -3,7 +3,5 @@ this is a a repository about technical writting
 and git hub relationships 
 unicorn
 practicing 
-And the unicorn
-horses
-1234
-seeking a compare pull request
+And the unicorn  ponnys
+main
